@@ -6,6 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "@bu0nq/style.scss.function.em": "github:bu0nq/style.scss.function.em",
+    "@bu0nq/style.scss.function.fluid": "github:bu0nq/style.scss.function.fluid",
+    "@bu0nq/style.scss.function.rem": "github:bu0nq/style.scss.function.rem",
+    "@bu0nq/style.scss.function.round": "github:bu0nq/style.scss.function.round"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bu0nq/style.scss.functions.git"
