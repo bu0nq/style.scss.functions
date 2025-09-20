@@ -1,6 +1,6 @@
 @use 'sass:math';
 
-@function clamp(
+@function fluid(
   $min-value,
   $max-value,
   $min-breakpoint,
